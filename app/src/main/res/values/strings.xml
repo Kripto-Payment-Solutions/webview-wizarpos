@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wizarpos Webview Demo</string>
+    <string name="main_url">https://gmail.com/</string>
+    <string name="exit_message">¿Desea salir de la aplicación?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+</resources>
